@@ -1,10 +1,10 @@
 Ejercicios encargados
 Ejercicio 1
-![image](https://github.com/user-attachments/assets/bfed0d55-da55-4812-8bb0-93423669d878)
+![image](https://github.com/user-attachments/assets/bfed0d55-da55-4812-8bb0-93423669d878) \n
 Ejercicio 2
-![image](https://github.com/user-attachments/assets/8fc7118a-2db2-44b7-895a-46e2387d6057)
+![image](https://github.com/user-attachments/assets/8fc7118a-2db2-44b7-895a-46e2387d6057)  \n
 Ejercicio 3
-![image](https://github.com/user-attachments/assets/2d7661f8-df96-4230-aa81-1e31148073ee)
+![image](https://github.com/user-attachments/assets/2d7661f8-df96-4230-aa81-1e31148073ee)  \n
 Ejercicio 4
 ![image](https://github.com/user-attachments/assets/647e9b62-a668-4254-984c-498f8139a9d9)
 Ejercicios propios
